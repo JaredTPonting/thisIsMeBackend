@@ -70,11 +70,13 @@ INSTALLED_APPS = [
 
 CORS_ALLOWED_ORIGINS = [
     "jtp-port-backend.herokuapp.com",
+    "http://127.0.0.1:8000",
     "http://localhost:3000"
 ]
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:3000",
+    "http://127.0.0.1:8000",
     "https://jtp-port-backend.herokuapp.com",
 ]
 
