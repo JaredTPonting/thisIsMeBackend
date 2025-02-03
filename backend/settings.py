@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-@_^meus-ge5)zgl1r3p2f0q4)ylb8oj0qd!3e@k49$7&du#k84
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["jtp-port-backend.herokuapp.com"]
 
 
 REST_FRAMEWORK = {
