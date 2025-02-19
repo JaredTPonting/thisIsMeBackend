@@ -72,7 +72,6 @@ CORS_ALLOWED_ORIGINS = [
     'https://jtp-port-backend-9acb82a1ef1b.herokuapp.com',
     'https://jtp-port-backend.herokuapp.com',
     "jtp-port-backend.herokuapp.com",
-    "http://127.0.0.1:8000",
     "http://localhost:3000"
 ]
 
