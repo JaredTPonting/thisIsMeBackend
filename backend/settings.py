@@ -69,6 +69,7 @@ INSTALLED_APPS = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
+    'https://jtp-port-backend.herokuapp.com',
     "jtp-port-backend.herokuapp.com",
     "http://127.0.0.1:8000",
     "http://localhost:3000"
